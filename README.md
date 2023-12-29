@@ -4,7 +4,7 @@ Welcome to the Inspirational Landing Page repository! This project aims to creat
 
 This project is contributed by:
 
-1. [AHMAD ZAFIRRUDIN] (https://github.com/Oreo-10)
+1. [AHMAD ZAFIRRUDIN](https://github.com/Oreo-10)
 2. [AMIRUL](https://github.com/amirulabdlatib)
 3. UMAR
 
@@ -20,3 +20,7 @@ We welcome contributions! If you'd like to contribute, follow these steps:
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Google Font](https://fonts.google.com/)
 - [Lottie Flies](https://lottiefiles.com/)
+
+## Preview
+
+![image](https://github.com/amirulabdlatib/inspirational-landing-page/assets/82816533/267c098a-4c05-4fd9-8bff-fe3b4e070bc8)
