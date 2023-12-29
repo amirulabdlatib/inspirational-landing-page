@@ -18,5 +18,5 @@ We welcome contributions! If you'd like to contribute, follow these steps:
 ## Acknowledgments
 
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-- [Google Font](https://fontawesome.com/](https://fonts.google.com/)
+- [Google Font](https://fonts.google.com/)
 - [Lottie Flies](https://lottiefiles.com/)
